@@ -1,2 +1,2 @@
-# HDR-UX178-test8
+# HDR-UX178-test7
 Auto exposure off
